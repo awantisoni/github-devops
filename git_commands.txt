@@ -14,3 +14,21 @@
   305  git status
   306  git restore testing.py
   307  git status
+
+
+  git commit -m" added comands" 
+  315  git status
+  316  git remote add origin https://github.com/awantisoni/github-devops.git
+  317  git remote -v
+  318  git status
+  319  git push origin master
+  320  git remote set-url origin 
+  321  git push origin master
+  322  git remote set-url origin 
+  323  git push origin master
+  324  git push origin main
+  325  git remote set-url origin
+  326  git push origin master
+  327  git remote -v
+  328  git push origin master
+  329  git push origin main
